@@ -1,4 +1,4 @@
-# code-example
+# Code description
 
 This jQuery code triggers the fadeIn jQuery function after scrolling by the .header div.
 
